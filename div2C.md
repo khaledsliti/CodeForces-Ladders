@@ -4,10 +4,10 @@
 | 2 | [Bad Sequence](https://codeforces.com/problemset/problem/1214/C) | 1200 | 14 |
 | 3 | [Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) | 1200 | 5 |
 | 4 | [Dishonest Sellers](https://codeforces.com/problemset/problem/779/C) | 1200 | 15 |
-| 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 |  |
-| 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 |  |
-| 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 |  |
-| 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 |  |
+| 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 | 8 |
+| 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 | 19 |
+| 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 | 39 |
+| 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 | 12 |
 | 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 |  |
 | 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 |  |
 | 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 |  |
