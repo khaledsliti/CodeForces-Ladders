@@ -8,19 +8,19 @@
 | 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 | 19 |
 | 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 | 39 |
 | 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 | 12 |
-| 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 |  |
-| 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 |  |
-| 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 |  |
-| 12 | [Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C) | 1300 |  |
-| 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
-| 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
-| 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 |  |
-| 16 | [Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 |  |
-| 17 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 |  |
-| 18 | [Three displays](https://codeforces.com/problemset/problem/987/C) | 1400 |  |
-| 19 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 |  |
-| 20 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 |  |
-| 21 | [Maximum Median](https://codeforces.com/problemset/problem/1201/C) | 1400 |  |
+| 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 | 12 |
+| 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 | 10 |
+| 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 | 13 |
+| 12 | [Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C) | 1300 | 4 |
+| 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 | 13 |
+| 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 | 10 |
+| 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 | 11 |
+| 16 | [Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 | 27 |
+| 17 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 | 15 |
+| 18 | [Three displays](https://codeforces.com/problemset/problem/987/C) | 1400 | 8 |
+| 19 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 | 29 |
+| 20 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 | 42 |
+| 21 | [Maximum Median](https://codeforces.com/problemset/problem/1201/C) | 1400 | 9 |
 | 22 | [Sonya and Robots](https://codeforces.com/problemset/problem/1004/C) | 1400 |  |
 | 23 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 |  |
 | 24 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 |  |
