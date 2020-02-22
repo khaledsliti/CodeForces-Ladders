@@ -21,7 +21,7 @@
 | 19 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 | 29 |
 | 20 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 | 42 |
 | 21 | [Maximum Median](https://codeforces.com/problemset/problem/1201/C) | 1400 | 9 |
-| 22 | [Sonya and Robots](https://codeforces.com/problemset/problem/1004/C) | 1400 |  |
+| 22 | [Sonya and Robots](https://codeforces.com/problemset/problem/1004/C) | 1400 | 16 |
 | 23 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 |  |
 | 24 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 |  |
 | 25 | [Edgy Trees](https://codeforces.com/problemset/problem/1139/C) | 1500 |  |
