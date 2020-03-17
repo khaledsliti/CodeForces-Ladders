@@ -59,12 +59,12 @@
 | 57 | [Jamie and Interesting Graph](https://codeforces.com/problemset/problem/916/C) | 1600 | 17 |
 | 58 | [Banh-mi](https://codeforces.com/problemset/problem/1062/C) | 1600 | 20 |
 | 59 | [Alyona and Spreadsheet](https://codeforces.com/problemset/problem/777/C) | 1600 | 30 |
-| 60 | [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C) | 1600 |  |
-| 61 | [Dasha and Password](https://codeforces.com/problemset/problem/761/C) | 1600 |  |
-| 62 | [Masha and two friends](https://codeforces.com/problemset/problem/1080/C) | 1600 |  |
-| 63 | [Fifa and Fafa](https://codeforces.com/problemset/problem/935/C) | 1700 |  |
-| 64 | [Subsequence Counting](https://codeforces.com/problemset/problem/960/C) | 1700 |  |
-| 65 | [Fountains](https://codeforces.com/problemset/problem/799/C) | 1700 |  |
+| 60 | [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C) | 1600 | 23 |
+| 61 | [Dasha and Password](https://codeforces.com/problemset/problem/761/C) | 1600 | 16 |
+| 62 | [Masha and two friends](https://codeforces.com/problemset/problem/1080/C) | 1600 | 27 |
+| 63 | [Fifa and Fafa](https://codeforces.com/problemset/problem/935/C) | 1700 | 25 |
+| 64 | [Subsequence Counting](https://codeforces.com/problemset/problem/960/C) | 1700 | 31 |
+| 65 | [Fountains](https://codeforces.com/problemset/problem/799/C) | 1700 | 24 |
 | 66 | [Mike and gcd problem](https://codeforces.com/problemset/problem/798/C) | 1700 |  |
 | 67 | [Creative Snap](https://codeforces.com/problemset/problem/1111/C) | 1700 |  |
 | 68 | [Trailing Loves (or L'oeufs?)](https://codeforces.com/problemset/problem/1114/C) | 1700 |  |
