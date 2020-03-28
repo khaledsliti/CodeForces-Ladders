@@ -65,12 +65,12 @@
 | 63 | [Fifa and Fafa](https://codeforces.com/problemset/problem/935/C) | 1700 | 25 |
 | 64 | [Subsequence Counting](https://codeforces.com/problemset/problem/960/C) | 1700 | 31 |
 | 65 | [Fountains](https://codeforces.com/problemset/problem/799/C) | 1700 | 24 |
-| 66 | [Mike and gcd problem](https://codeforces.com/problemset/problem/798/C) | 1700 |  |
-| 67 | [Creative Snap](https://codeforces.com/problemset/problem/1111/C) | 1700 |  |
-| 68 | [Trailing Loves (or L'oeufs?)](https://codeforces.com/problemset/problem/1114/C) | 1700 |  |
-| 69 | [Remove Extra One](https://codeforces.com/problemset/problem/900/C) | 1700 |  |
-| 70 | [Array Product](https://codeforces.com/problemset/problem/1042/C) | 1700 |  |
-| 71 | [Problem for Nazar](https://codeforces.com/problemset/problem/1151/C) | 1700 |  |
+| 66 | [Mike and gcd problem](https://codeforces.com/problemset/problem/798/C) | 1700 | 23 |
+| 67 | [Creative Snap](https://codeforces.com/problemset/problem/1111/C) | 1700 | 23 |
+| 68 | [Trailing Loves (or L'oeufs?)](https://codeforces.com/problemset/problem/1114/C) | 1700 | 10 |
+| 69 | [Remove Extra One](https://codeforces.com/problemset/problem/900/C) | 1700 | 24 |
+| 70 | [Array Product](https://codeforces.com/problemset/problem/1042/C) | 1700 | 17 |
+| 71 | [Problem for Nazar](https://codeforces.com/problemset/problem/1151/C) | 1700 | 21 |
 | 72 | [Posterized](https://codeforces.com/problemset/problem/980/C) | 1700 |  |
 | 73 | [Laboratory Work](https://codeforces.com/problemset/problem/931/C) | 1700 |  |
 | 74 | [Beautiful Lyrics](https://codeforces.com/problemset/problem/1182/C) | 1700 |  |
