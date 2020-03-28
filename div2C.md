@@ -71,7 +71,7 @@
 | 69 | [Remove Extra One](https://codeforces.com/problemset/problem/900/C) | 1700 | 24 |
 | 70 | [Array Product](https://codeforces.com/problemset/problem/1042/C) | 1700 | 17 |
 | 71 | [Problem for Nazar](https://codeforces.com/problemset/problem/1151/C) | 1700 | 21 |
-| 72 | [Posterized](https://codeforces.com/problemset/problem/980/C) | 1700 |  |
+| 72 | [Posterized](https://codeforces.com/problemset/problem/980/C) | 1700 | 20 |
 | 73 | [Laboratory Work](https://codeforces.com/problemset/problem/931/C) | 1700 |  |
 | 74 | [Beautiful Lyrics](https://codeforces.com/problemset/problem/1182/C) | 1700 |  |
 | 75 | [Multiplicity](https://codeforces.com/problemset/problem/1061/C) | 1700 |  |
