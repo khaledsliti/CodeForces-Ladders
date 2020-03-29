@@ -72,12 +72,12 @@
 | 70 | [Array Product](https://codeforces.com/problemset/problem/1042/C) | 1700 | 17 |
 | 71 | [Problem for Nazar](https://codeforces.com/problemset/problem/1151/C) | 1700 | 21 |
 | 72 | [Posterized](https://codeforces.com/problemset/problem/980/C) | 1700 | 20 |
-| 73 | [Laboratory Work](https://codeforces.com/problemset/problem/931/C) | 1700 |  |
-| 74 | [Beautiful Lyrics](https://codeforces.com/problemset/problem/1182/C) | 1700 |  |
-| 75 | [Multiplicity](https://codeforces.com/problemset/problem/1061/C) | 1700 |  |
-| 76 | [Anna, Svyatoslav and Maps](https://codeforces.com/problemset/problem/1204/C) | 1700 |  |
-| 77 | [Magic Grid](https://codeforces.com/problemset/problem/1208/C) | 1800 |  |
-| 78 | [Naming Company](https://codeforces.com/problemset/problem/794/C) | 1800 |  |
+| 73 | [Laboratory Work](https://codeforces.com/problemset/problem/931/C) | 1700 | 23 |
+| 74 | [Beautiful Lyrics](https://codeforces.com/problemset/problem/1182/C) | 1700 | 24 |
+| 75 | [Multiplicity](https://codeforces.com/problemset/problem/1061/C) | 1700 | 14 |
+| 76 | [Anna, Svyatoslav and Maps](https://codeforces.com/problemset/problem/1204/C) | 1700 | 46 |
+| 77 | [Magic Grid](https://codeforces.com/problemset/problem/1208/C) | 1800 | DONE |
+| 78 | [Naming Company](https://codeforces.com/problemset/problem/794/C) | 1800 | DONE |
 | 79 | [Petya and Exam](https://codeforces.com/problemset/problem/1282/C) | 1800 |  |
 | 80 | [Mahmoud and Ehab and the xor](https://codeforces.com/problemset/problem/862/C) | 1800 |  |
 | 81 | [Neko does Maths](https://codeforces.com/problemset/problem/1152/C) | 1800 |  |
