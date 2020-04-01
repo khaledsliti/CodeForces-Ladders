@@ -78,8 +78,8 @@
 | 76 | [Anna, Svyatoslav and Maps](https://codeforces.com/problemset/problem/1204/C) | 1700 | 46 |
 | 77 | [Magic Grid](https://codeforces.com/problemset/problem/1208/C) | 1800 | DONE |
 | 78 | [Naming Company](https://codeforces.com/problemset/problem/794/C) | 1800 | DONE |
-| 79 | [Petya and Exam](https://codeforces.com/problemset/problem/1282/C) | 1800 |  |
-| 80 | [Mahmoud and Ehab and the xor](https://codeforces.com/problemset/problem/862/C) | 1800 |  |
+| 79 | [Petya and Exam](https://codeforces.com/problemset/problem/1282/C) | 1800 | 35 |
+| 80 | [Mahmoud and Ehab and the xor](https://codeforces.com/problemset/problem/862/C) | 1800 | DONE |
 | 81 | [Neko does Maths](https://codeforces.com/problemset/problem/1152/C) | 1800 |  |
 | 82 | [Travelling Salesman and Special Numbers](https://codeforces.com/problemset/problem/914/C) | 1800 |  |
 | 83 | [Vladik and Memorable Trip](https://codeforces.com/problemset/problem/811/C) | 1800 |  |
