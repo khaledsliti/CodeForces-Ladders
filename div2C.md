@@ -80,14 +80,14 @@
 | 78 | [Naming Company](https://codeforces.com/problemset/problem/794/C) | 1800 | DONE |
 | 79 | [Petya and Exam](https://codeforces.com/problemset/problem/1282/C) | 1800 | 35 |
 | 80 | [Mahmoud and Ehab and the xor](https://codeforces.com/problemset/problem/862/C) | 1800 | DONE |
-| 81 | [Neko does Maths](https://codeforces.com/problemset/problem/1152/C) | 1800 |  |
-| 82 | [Travelling Salesman and Special Numbers](https://codeforces.com/problemset/problem/914/C) | 1800 |  |
-| 83 | [Vladik and Memorable Trip](https://codeforces.com/problemset/problem/811/C) | 1800 |  |
-| 84 | [Molly's Chemicals](https://codeforces.com/problemset/problem/776/C) | 1800 |  |
-| 85 | [A Mist of Florescence](https://codeforces.com/problemset/problem/989/C) | 1800 |  |
-| 86 | [Vus the Cossack and Strings](https://codeforces.com/problemset/problem/1186/C) | 1800 |  |
-| 87 | [Jon Snow and his Favourite Number](https://codeforces.com/problemset/problem/768/C) | 1800 |  |
-| 88 | [Marco and GCD Sequence](https://codeforces.com/problemset/problem/894/C) | 1800 |  |
+| 81 | [Neko does Maths](https://codeforces.com/problemset/problem/1152/C) | 1800 | DONE |
+| 82 | [Travelling Salesman and Special Numbers](https://codeforces.com/problemset/problem/914/C) | 1800 | DONE |
+| 83 | [Vladik and Memorable Trip](https://codeforces.com/problemset/problem/811/C) | 1800 | DONE |
+| 84 | [Molly's Chemicals](https://codeforces.com/problemset/problem/776/C) | 1800 | 12 |
+| 85 | [A Mist of Florescence](https://codeforces.com/problemset/problem/989/C) | 1800 | 43 |
+| 86 | [Vus the Cossack and Strings](https://codeforces.com/problemset/problem/1186/C) | 1800 | 32 |
+| 87 | [Jon Snow and his Favourite Number](https://codeforces.com/problemset/problem/768/C) | 1800 | 20 |
+| 88 | [Marco and GCD Sequence](https://codeforces.com/problemset/problem/894/C) | 1800 | 26 |
 | 89 | [Greedy Arkady](https://codeforces.com/problemset/problem/965/C) | 1900 |  |
 | 90 | [Flag](https://codeforces.com/problemset/problem/1181/C) | 1900 |  |
 | 91 | [System Testing](https://codeforces.com/problemset/problem/1121/C) | 1900 |  |
