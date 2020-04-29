@@ -88,8 +88,8 @@
 | 86 | [Vus the Cossack and Strings](https://codeforces.com/problemset/problem/1186/C) | 1800 | 32 |
 | 87 | [Jon Snow and his Favourite Number](https://codeforces.com/problemset/problem/768/C) | 1800 | 20 |
 | 88 | [Marco and GCD Sequence](https://codeforces.com/problemset/problem/894/C) | 1800 | 26 |
-| 89 | [Greedy Arkady](https://codeforces.com/problemset/problem/965/C) | 1900 |  |
-| 90 | [Flag](https://codeforces.com/problemset/problem/1181/C) | 1900 |  |
+| 89 | [Greedy Arkady](https://codeforces.com/problemset/problem/965/C) | 1900 | 27 + 6 |
+| 90 | [Flag](https://codeforces.com/problemset/problem/1181/C) | 1900 | 8 + 12 |
 | 91 | [System Testing](https://codeforces.com/problemset/problem/1121/C) | 1900 |  |
 | 92 | [The Football Season](https://codeforces.com/problemset/problem/1244/C) | 1900 |  |
 | 93 | [Felicity is Coming!](https://codeforces.com/problemset/problem/757/C) | 1900 |  |
