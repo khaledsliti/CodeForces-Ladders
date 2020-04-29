@@ -90,7 +90,7 @@
 | 88 | [Marco and GCD Sequence](https://codeforces.com/problemset/problem/894/C) | 1800 | 26 |
 | 89 | [Greedy Arkady](https://codeforces.com/problemset/problem/965/C) | 1900 | 27 + 6 |
 | 90 | [Flag](https://codeforces.com/problemset/problem/1181/C) | 1900 | 8 + 12 |
-| 91 | [System Testing](https://codeforces.com/problemset/problem/1121/C) | 1900 |  |
+| 91 | [System Testing](https://codeforces.com/problemset/problem/1121/C) | 1900 | 42 |
 | 92 | [The Football Season](https://codeforces.com/problemset/problem/1244/C) | 1900 |  |
 | 93 | [Felicity is Coming!](https://codeforces.com/problemset/problem/757/C) | 1900 |  |
 | 94 | [Square Subsets](https://codeforces.com/problemset/problem/895/C) | 2000 |  |
