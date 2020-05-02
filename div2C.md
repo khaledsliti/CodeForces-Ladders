@@ -91,10 +91,10 @@
 | 89 | [Greedy Arkady](https://codeforces.com/problemset/problem/965/C) | 1900 | 27 + 6 |
 | 90 | [Flag](https://codeforces.com/problemset/problem/1181/C) | 1900 | 8 + 12 |
 | 91 | [System Testing](https://codeforces.com/problemset/problem/1121/C) | 1900 | 42 |
-| 92 | [The Football Season](https://codeforces.com/problemset/problem/1244/C) | 1900 |  |
-| 93 | [Felicity is Coming!](https://codeforces.com/problemset/problem/757/C) | 1900 |  |
-| 94 | [Square Subsets](https://codeforces.com/problemset/problem/895/C) | 2000 |  |
-| 95 | [Ilya And The Tree](https://codeforces.com/problemset/problem/842/C) | 2000 |  |
+| 92 | [The Football Season](https://codeforces.com/problemset/problem/1244/C) | 1900 | 30 |
+| 93 | [Felicity is Coming!](https://codeforces.com/problemset/problem/757/C) | 1900 | 35 |
+| 94 | [Square Subsets](https://codeforces.com/problemset/problem/895/C) | 2000 | 66 |
+| 95 | [Ilya And The Tree](https://codeforces.com/problemset/problem/842/C) | 2000 | 32 |
 | 96 | [Garland](https://codeforces.com/problemset/problem/767/C) | 2000 |  |
 | 97 | [Sad powers](https://codeforces.com/problemset/problem/955/C) | 2100 |  |
 | 98 | [Vladik and chat](https://codeforces.com/problemset/problem/754/C) | 2200 |  |
