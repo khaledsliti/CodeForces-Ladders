@@ -95,8 +95,8 @@
 | 93 | [Felicity is Coming!](https://codeforces.com/problemset/problem/757/C) | 1900 | 35 |
 | 94 | [Square Subsets](https://codeforces.com/problemset/problem/895/C) | 2000 | 66 |
 | 95 | [Ilya And The Tree](https://codeforces.com/problemset/problem/842/C) | 2000 | 32 |
-| 96 | [Garland](https://codeforces.com/problemset/problem/767/C) | 2000 |  |
-| 97 | [Sad powers](https://codeforces.com/problemset/problem/955/C) | 2100 |  |
-| 98 | [Vladik and chat](https://codeforces.com/problemset/problem/754/C) | 2200 |  |
+| 96 | [Garland](https://codeforces.com/problemset/problem/767/C) | 2000 | 31 |
+| 97 | [Sad powers](https://codeforces.com/problemset/problem/955/C) | 2100 | 25 |
+| 98 | [Vladik and chat](https://codeforces.com/problemset/problem/754/C) | 2200 | 51 |
 | 99 | [Strange Radiation](https://codeforces.com/problemset/problem/832/C) | 2500 |  |
 | 100 | [Perun, Ult!](https://codeforces.com/problemset/problem/912/C) | 2500 |  |
