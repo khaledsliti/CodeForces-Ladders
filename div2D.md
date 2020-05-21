@@ -3,7 +3,7 @@
 | 1 | [Green and Black Tea](https://codeforces.com/problemset/problem/746/D) | 1500 | 21 |
 | 2 | [Stas and the Queue at the Buffet](https://codeforces.com/problemset/problem/1151/D) | 1500 | 23 |
 | 3 | [Bishwock](https://codeforces.com/problemset/problem/991/D) | 1500 | 25 |
-| 4 | [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | 1500 |  |
+| 4 | [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | 1500 | 9 |
 | 5 | [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D) | 1500 |  |
 | 6 | [Make a Permutation!](https://codeforces.com/problemset/problem/864/D) | 1500 |  |
 | 7 | [Vus the Cossack and Numbers](https://codeforces.com/problemset/problem/1186/D) | 1600 |  |
