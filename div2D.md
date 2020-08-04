@@ -11,21 +11,21 @@
 | 9 | [Love Rescue](https://codeforces.com/problemset/problem/939/D) | 1600 | 12 |
 | 10 | [Extra Element](https://codeforces.com/problemset/problem/1185/D) | 1700 | 22 |
 | 11 | [Ticket Game](https://codeforces.com/problemset/problem/1215/D) | 1700 |  |
-| 12 | [Slime](https://codeforces.com/problemset/problem/1038/D) | 1700 |  |
+| 12 | [Slime](https://codeforces.com/problemset/problem/1038/D) | 1700 | Done |
 | 13 | [Artsem and Saunders](https://codeforces.com/problemset/problem/765/D) | 1700 |  |
-| 14 | [Substring](https://codeforces.com/problemset/problem/919/D) | 1700 |  |
-| 15 | [Harmonious Graph](https://codeforces.com/problemset/problem/1253/D) | 1700 |  |
-| 16 | [Alarm Clock](https://codeforces.com/problemset/problem/898/D) | 1700 |  |
-| 17 | [Dasha and Very Difficult Problem](https://codeforces.com/problemset/problem/761/D) | 1700 |  |
-| 18 | [Cow and Snacks](https://codeforces.com/problemset/problem/1209/D) | 1700 |  |
-| 19 | [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | 1700 |  |
-| 20 | [Glider](https://codeforces.com/problemset/problem/1041/D) | 1700 |  |
-| 21 | [Array Restoration](https://codeforces.com/problemset/problem/1023/D) | 1700 |  |
-| 22 | [Paint the Tree](https://codeforces.com/problemset/problem/1244/D) | 1700 |  |
-| 23 | [Petya and Array](https://codeforces.com/problemset/problem/1042/D) | 1800 |  |
-| 24 | [Cloud of Hashtags](https://codeforces.com/problemset/problem/777/D) | 1800 |  |
-| 25 | [Chloe and pleasant prizes](https://codeforces.com/problemset/problem/743/D) | 1800 |  |
-| 26 | [Fun with Integers](https://codeforces.com/problemset/problem/1062/D) | 1800 |  |
+| 14 | [Substring](https://codeforces.com/problemset/problem/919/D) | 1700 | Done |
+| 15 | [Harmonious Graph](https://codeforces.com/problemset/problem/1253/D) | 1700 | Done |
+| 16 | [Alarm Clock](https://codeforces.com/problemset/problem/898/D) | 1700 | Done |
+| 17 | [Dasha and Very Difficult Problem](https://codeforces.com/problemset/problem/761/D) | 1700 | Done |
+| 18 | [Cow and Snacks](https://codeforces.com/problemset/problem/1209/D) | 1700 | Done |
+| 19 | [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | 1700 | Done |
+| 20 | [Glider](https://codeforces.com/problemset/problem/1041/D) | 1700 | Done |
+| 21 | [Array Restoration](https://codeforces.com/problemset/problem/1023/D) | 1700 | Done |
+| 22 | [Paint the Tree](https://codeforces.com/problemset/problem/1244/D) | 1700 | Done |
+| 23 | [Petya and Array](https://codeforces.com/problemset/problem/1042/D) | 1800 | Done |
+| 24 | [Cloud of Hashtags](https://codeforces.com/problemset/problem/777/D) | 1800 | Done |
+| 25 | [Chloe and pleasant prizes](https://codeforces.com/problemset/problem/743/D) | 1800 | Done |
+| 26 | [Fun with Integers](https://codeforces.com/problemset/problem/1062/D) | 1800 | Done |
 | 27 | [My pretty girl Noora](https://codeforces.com/problemset/problem/822/D) | 1800 |  |
 | 28 | [Let's Play the Words?](https://codeforces.com/problemset/problem/1277/D) | 1800 |  |
 | 29 | [Shovel Sale](https://codeforces.com/problemset/problem/899/D) | 1800 |  |
